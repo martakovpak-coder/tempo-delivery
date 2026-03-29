@@ -1,0 +1,5 @@
+{
+  "name": "Tempo to Delivery Converter",
+  "description": "Convert Tempo worklog CSV exports to Delivery SHAR Excel reports with automated task aggregation and formula calculation.",
+  "requestFramePermissions": []
+}
